@@ -12,4 +12,8 @@ public class AppBenito {
     public static int sum(int a, int b) {
         return a + b;
     }
+
+    public String run() {
+        return "Running...";
+    }
 }
